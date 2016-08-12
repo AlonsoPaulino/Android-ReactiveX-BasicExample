@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxTest-1</string>
+
+    <string name="button_sample1">First Example</string>
+    <string name="button_sample2">Second Example</string>
+    <string name="button_sample3">Third Example</string>
+</resources>
